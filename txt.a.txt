@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 this is the first commit and first update
 wertyuiop'\
 <<<<<<< HEAD
 =======
 nzuzsjisexdkgisldvsejknkd
 >>>>>>> fd388ee7dafcbec9f7ad2d2e8cfacd9e73f8c9d2
+=======
+ cisjx dkcgckdd
+>>>>>>> frontend
